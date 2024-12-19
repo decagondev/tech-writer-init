@@ -13,6 +13,7 @@ This project demonstrates the development of a **Technical Writer Agent** design
 - `main.py`: Main script that orchestrates the Technical Writer Agent
 - `utility.py`: Contains utility functions for GitHub interactions and OpenAI API calls
 - `ControlUnitModule.tsx`: Added a new module to manage and coordinate CPU components
+- `CPUFundamentalsModule.tsx`: Added CPU Fundamentals Module React Component
 
 ## Setup
 
@@ -53,3 +54,4 @@ We encourage you to personalize this project and address challenges in your own 
 
 ## Need Help?
 Refer to the project documentation or reach out to the learning assistant.
+Consider the code changes from the Pull Request (including changes in docstrings and other metadata), and the commit messages. The README has been updated to reflect the addition of the CPU Fundamentals Module React Component.
