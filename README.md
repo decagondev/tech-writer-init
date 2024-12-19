@@ -12,6 +12,7 @@ This project demonstrates the development of a **Technical Writer Agent** design
 - `github/workflows/update-readme.yml`: GitHub Actions workflow to update the README.md file
 - `main.py`: Main script that orchestrates the Technical Writer Agent
 - `utility.py`: Contains utility functions for GitHub interactions and OpenAI API calls
+- `ControlUnitModule.tsx`: Added a new module to manage and coordinate CPU components
 
 ## Setup
 
